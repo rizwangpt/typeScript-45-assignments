@@ -12,7 +12,7 @@
 // console.log(nameCase.toLowerCase());
 // console.log(nameCase.toUpperCase());
 // console.log(nameCase.replace(/\b\w/g, (character) => character.toUpperCase()));
-                            // Regular expression or Rigix
+//                             Regular expression or Rigix
 
 
 // TASK #04: Famous Quote
@@ -672,7 +672,7 @@
 
 // TASK #45: Cars
 
-// Note 45th task m Error arha, because of tsconfig file, baaqi print perfect horaha ha... 
+// Note: 45th task getting error, because of tsconfig file, but Print whole code perfectly !!!
 
 // define a fn. to create a car object with optional options 
 

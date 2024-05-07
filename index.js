@@ -515,6 +515,7 @@
 // // ye dono seperate time print hongyyy
 // // it's happening bcoz of Rest parameters (...)
 // TASK #45: Cars
+// Note 45th task m Error arha, because of tsconfig file, baaqi print perfect horaha ha... 
 // define a fn. to create a car object with optional options 
 function createCar(manufacturer, model) {
     var options = [];
@@ -535,3 +536,4 @@ function createCar(manufacturer, model) {
 //  call fn. to create Car object
 var myCar = createCar("Toyota", "Corrolla", "Color: Black", "Sunroof: True", "Year: 2023");
 console.log(myCar);
+// 45 EXCERCISES DONE  !!!

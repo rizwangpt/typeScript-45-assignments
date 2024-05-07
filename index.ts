@@ -695,6 +695,8 @@ let myCar = createCar("Toyota", "Corrolla", "Color: Black", "Sunroof: True", "Ye
 console.log(myCar);
 
 
+// 45 EXCERCISES DONE  !!!
+
 
 
 
